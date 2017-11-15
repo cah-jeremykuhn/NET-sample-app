@@ -1,9 +1,13 @@
 # .NET Sample App
 
+### Manifest Deployment
+
 Push the app with the manifest:
 ```
 cf push
 ```
+
+### Manual Deployment
 
 Push the app with no-start:
 ```
