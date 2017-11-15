@@ -1,0 +1,8 @@
+---
+applications:
+- name: eww-windows
+  memory: 1G
+  random-route: true
+  path: ./ViewEnvironment/
+  buildpack: hwc_buildpack
+  stack: windows2012R2
